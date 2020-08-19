@@ -5,7 +5,7 @@ These are the Groups for this class. Please group yourselves in teams of 3 or 4 
 ### Group 1 - <GROUPNAME>
 * Brandon Visoky
 * Jacob Hagan
-* Student 3
+* Justin Coffey
 * Student 4
 
 ### Group 2 - <GROUPNAME>
@@ -25,12 +25,6 @@ These are the Groups for this class. Please group yourselves in teams of 3 or 4 
 * Courtney Richmond
 * Hannah Park
 * Parker Marschel
-
-### Group 5 - <GROUPNAME>
-* Ferris Builer
-* Student 2
-* Student 3
-* Student 4
 
 ### Group n - <GROUPNAME>
 * Student 1
